@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "airtable": "^0.5.8",
+    "airtable": "^0.7.2",
     "aylien_textapi": "^0.7.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
